@@ -1,0 +1,59 @@
+1,Harry Potter and the Half-Blood Prince,J.K. Rowling,4.57,439785960,eng,652,Scholastic Inc.,62
+2,Harry Potter and the Order of the Phoenix,J.K. Rowling,4.49,439358078,eng,870,Scholastic Inc.,68
+3,Harry Potter and the Chamber of Secrets,J.K. Rowling,4.42,439554896,eng,352,Scholastic,3
+4,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,4.56,043965548X,eng,435,Scholastic Inc.,58
+5,A Short History of Nearly Everything,Bill Bryson,4.21,076790818X,eng,544,Broadway Books,25
+6,Bill Bryson's African Diary,Bill Bryson,3.44,767915062,eng,55,Broadway Books,23
+7,Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right,Bill Bryson,3.87,767910435,eng,256,Broadway Books,66
+8,In a Sunburned Country,Bill Bryson,4.07,767903862,eng,335,Broadway Books,9
+9,I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away,Bill Bryson,3.90,076790382X,eng,304,Broadway Books,55
+10,The Lost Continent: Travels in Small Town America,Bill Bryson,3.83,60920084,eng,299,William Morrow Paperbacks,44
+11,Neither Here nor There: Travels in Europe,Bill Bryson,3.86,380713802,eng,254,William Morrow Paperbacks,62
+12,Notes from a Small Island,Bill Bryson,3.91,380727501,eng,324,William Morrow Paperbacks,0
+13,The Mother Tongue: English and How It Got That Way,Bill Bryson,3.93,380715430,eng,270,William Morrow Paperbacks,15
+14,The Lord of the Rings,J.R.R. Tolkien,4.50,618517650,eng,1184,Houghton Mifflin Harcourt,10
+15,The Fellowship of the Ring,J.R.R. Tolkien,4.36,618346252,eng,398,Houghton Mifflin Harcourt,28
+16,The Lord of the Rings: Weapons and Warfare,Chris Smith,4.53,618391002,eng,218,Houghton Mifflin Harcourt,32
+17,The Lord of the Rings: Complete Visual Companion,Jude Fisher,4.50,618510826,eng,224,Houghton Mifflin Harcourt,58
+18,Agile Web Development with Rails: A Pragmatic Guide,Dave Thomas,3.84,097669400X,eng,558,Pragmatic Bookshelf,3
+19,Guts: The True Stories behind Hatchet and the Brian Books,Gary Paulsen,3.88,385326505,eng,144,Delacorte Press,39
+20,Molly Hatchet - 5 of the Best,Molly Hatchet,4.33,1575606240,eng,56,Cherry Lane Music Company,17
+21,Hatchet Jobs: Writings on Contemporary Fiction,Dale Peck,3.45,1595580271,en-US,228,The New Press,52
+22,A Changeling for All Seasons (Changeling Seasons #1),Angela Knight,3.76,1595962808,eng,304,Changeling Press,53
+23,The Changeling Sea,Patricia A. McKillip,4.06,141312629,eng,137,Firebird,43
+24,The Changeling,Zilpha Keatley Snyder,4.17,595321801,eng,228,iUniverse,21
+25,The Changeling,Kate Horsley,3.55,1590301943,eng,339,Shambhala,66
+26,The Known World,Edward P. Jones,3.83,61159174,eng,388,Amistad,34
+27,The Known World,Edward P. Jones,3.83,006076273X,en-US,14,HarperAudio,8
+28,The Known World,Edward P. Jones,3.83,60749911,eng,576,Harper,54
+29,Traders  Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives,Satyajit Das,3.83,273704745,eng,334,FT Press,9
+30,Artesia: Adventures in the Known World,Mark Smylie,4.13,1932386106,eng,352,Archaia,52
+31,Uncommon Carriers,John McPhee,3.95,374280398,en-US,248,Farrar Straus Giroux,10
+32,Heirs of General Practice,John McPhee,4.17,374519749,eng,128,Farrar  Straus and Giroux,59
+33,The Control of Nature,John McPhee,4.24,374522596,en-US,288,Farrar  Straus and Giroux,5
+34,Annals of the Former World,John McPhee,4.34,374518734,eng,720,Farrar  Straus and Giroux,60
+35,Coming Into the Country,John McPhee,4.22,374522871,eng,448,Farrar  Straus and Giroux,48
+36,La Place de la Concorde Suisse,John McPhee,3.92,374519323,fre,160,Farrar  Straus and Giroux,37
+37,Giving Good Weight,John McPhee,4.23,374516006,eng,288,Farrar  Straus and Giroux,12
+38,Rising from the Plains,John McPhee,4.23,374520658,eng,208,Farrar  Straus and Giroux,20
+39,The Heidi Chronicles,Wendy Wasserstein,3.75,822205106,eng,81,Dramatists Play Service,43
+40,Simply Beautiful Beaded Jewelry,Heidi Boyd,3.77,1581807740,en-US,128,North Light Books,40
+41,Always Enough: God's Miraculous Provision Among the Poorest Children on Earth,Heidi Baker,4.46,800793617,eng,192,Chosen Books,48
+42,Mapping the Big Picture: Integrating Curriculum & Assessment K-12,Heidi Hayes Jacobs,3.68,871202867,en-US,108,Association for Supervision & Curriculum Development,75
+43,Heidi,Johanna Spyri,3.99,753454947,eng,352,Kingfisher,6
+44,Getting Results with Curriculum Mapping,Heidi Hayes Jacobs,3.25,871209993,eng,192,ASCD,42
+45,There's Always Enough: The Miraculous Move of God in Mozambique,Rolland Baker,4.46,1852402873,eng,192,Sovereign World,34
+46,What to Expect the First Year,Heidi Murkoff,3.89,761129588,eng,832,Workman Publishing Company,15
+47,The Player's Handbook: The Ultimate Guide on Dating and Relationships,Heidi Fleiss,3.82,972016414,eng,123,One Hour Entertainment,0
+48,Simply Beautiful Beading: 53 Quick and Easy Projects,Heidi Boyd,3.78,1581805632,en-US,128,North Light Books,63
+49,God Emperor of Dune,Frank Herbert,3.84,441294677,eng,423,Ace Books,3
+50,Chapterhouse: Dune,Frank Herbert,3.91,441102670,eng,436,Ace Books,14
+51,Dune Messiah,Frank Herbert,3.88,441172695,eng,331,Ace Books,44
+52,Dreamer of Dune: The Biography of Frank Herbert,Brian Herbert,4.01,765306476,en-US,592,Tor Books,59
+53,Heretics of Dune,Frank Herbert,3.86,399128980,eng,480,Putnam,8
+54,The Road to Dune,Frank Herbert,3.88,765353709,eng,426,Tor Science Fiction,2
+55,The Lord of the Rings: The Art of the Fellowship of the Ring,Gary Russell,4.59,618212906,eng,192,Houghton Mifflin Harcourt,23
+56,The Power of One,Bryce Courtenay,4.35,034541005X,eng,544,Ballantine Books,68
+57,Power of an Hour: Business and Life Mastery in One Hour a Week,Dave Lakhani,3.34,471780936,eng,205,Wiley,28
+58,The Power of One: The Solo Play for Playwrights  Actors  and Directors,Louis E. Catron,3.67,325001537,eng,240,Heinemann Drama,38
+59,How to Buy  Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days,Adam Ginsberg,3.48,006076287X,eng,336,William Morrow Paperbacks,30
