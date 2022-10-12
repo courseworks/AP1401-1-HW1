@@ -8,7 +8,6 @@
 In this homework we are going to answer 3 separate questions: in the first question we will write a bash script and in the other 2 we deal with c++ questions. 
 
 
-<hr/>
 </br>
 
 ## Question 1 - Bash Script
@@ -75,7 +74,6 @@ Your script should also detect if the given path is valid or not.
 ***Question*** How can you run the `renamer.sh` script from any folder on your computer without providing its path?
 
 </br>
-<hr/>
 </br>
 
 ## Question 2 - Book Management System
@@ -147,7 +145,6 @@ Now, let's go ahead and explain the needed functions, but ***remember*** you are
     <br>
 
 </br>
-<hr/>
 </br>
 
 ## Question 3 - Linear Regression
