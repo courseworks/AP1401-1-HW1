@@ -34,9 +34,9 @@ To do this go to the `bash` directory and write your script in `renamer.sh` file
 So your script should be run in all the following circumstances:
 
 ```sh
-./renamer /path/to/directory        #rename all the files in the path
-./renamer /path/to/directory -c     #make copies and rename them
-./renamer /path/to/directory --copy #exactly like -c flag
+./renamer.sh /path/to/directory        #rename all the files in the path
+./renamer.sh /path/to/directory -c     #make copies and rename them
+./renamer.sh /path/to/directory --copy #exactly like -c flag
 ```
 Your script should also make some outputs stating what it is doing, the output should be like this:
 
